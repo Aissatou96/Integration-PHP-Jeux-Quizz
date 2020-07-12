@@ -1,0 +1,15 @@
+form input{
+    font-size: 20px;
+}
+
+.formulaire form button{
+    margin-top: 40px;
+    padding: 10px;
+    color: white;
+    background-color: darkturquoise;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid darkturquoise;
+    
+}

@@ -1,0 +1,92 @@
+.container-form{
+    border: 1px solid black;
+    width: 60%;
+    height: 500px;
+    margin: auto;
+}
+<div class ="container-form">
+        
+        
+         <div class="content-form">
+            <form action="" method="POST">
+            
+            </form>
+       </div>
+        <div class="container-avatar">
+        
+        </div>
+</div>-->
+
+
+
+
+
+
+
+
+
+
+/*.container-form{
+    border: 1px solid black;
+    width: 60%;
+    height: 520px;
+   /* float: left;  
+    padding: 10px;
+    margin: auto;
+}
+
+.content-form{
+    border-top: 1px solid silver;
+    width: 45%;
+    height:auto;
+    float: left;
+    padding: 10px;
+}
+
+form input{
+    font-size: 20px;
+}
+form label{
+    font-size: 20px;
+}
+/*form button{
+    font-size: 20px;
+    font-weight: bold;
+    height: 40px;
+    padding: 10px;
+    color: white;
+    background-color: #3addd6;
+}
+
+.container-avatar{
+    position: relative;
+    width:35%;
+    height:auto;
+    float: left;
+}
+
+.container-avatar img{
+    position: absolute;
+    left: 10%;
+    margin-top: -100px;
+    padding: 10px;
+}
+
+.image img{
+    position: relative;
+    right: 80%;
+    width: 50%;
+    height: auto;
+    border: 1px solid #51bfd0;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+.container-avatar label{
+    position: absolute;
+    top: 100%;
+    margin-top: 120px;
+    margin-left: 90px;
+    font-size: 15px;
+}
+*/

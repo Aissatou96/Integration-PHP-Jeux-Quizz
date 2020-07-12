@@ -1,0 +1,98 @@
+.container-acc{
+    border: 1px solid black;
+    width: 100%;
+    background-color: white;
+    margin: auto;
+}
+
+.container-header-acc{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    background-color:#51bfd0;
+}
+
+.titre{
+    position: absolute;
+    top: 38px;
+    left: 25%;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.container-header-acc .btn button{
+    position: absolute;
+    top: 35px;
+    right: 3%;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    padding: 10px;
+    color: white;
+    background-color: #3addd6;
+}
+
+.container-acc-body{
+    position: relative;
+    width: 100%;
+    margin: auto;
+}
+
+.container-acc-body .container-left{
+width: 40%;
+height: 520px;
+float: left;
+}
+
+.avatar{
+    border: 1px solid silver;
+    width: 75%;
+    height:400px;
+    margin: 40px;
+    text-align: center;
+}
+
+.avatar-header{
+    background-color: darkturquoise;
+    width: 100%;
+    color:white
+}
+
+.avatar-header img {
+    height: 5.5em;
+    width: 5.5em;
+    border: solid 3px white;
+    border-radius: 100%;
+}
+
+
+li {
+    list-style-type: none;
+}
+
+a{
+   text-decoration: none;
+}
+
+.liste{
+    float: left;
+    margin-right: 80px;
+    font-size: 20px;
+    color: silver;
+}
+
+.liste img{
+    float: right;
+    position: absolute;
+    right: 65%;
+}
+
+.container-acc-body .container-right{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 55.5%;
+    float: left;  
+    padding: 10px;
+}
+

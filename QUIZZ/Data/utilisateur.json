@@ -1,0 +1,53 @@
+[
+    {
+        "prenom": "Aissatou",
+        "nom": "CISSE",
+        "login": "aissatou96",
+        "password": "satou96",
+        "avatar": ".\/Data\/avatars\/aissatou96.png",
+        "profil": "joueur",
+        "score": 0
+    },
+    {
+        "prenom": "Aissatou",
+        "nom": "CISSE",
+        "login": "aissatou",
+        "password": "satou",
+        "avatar": ".\/Data\/avatars\/aissatou.png",
+        "profil": "admin"
+    },
+    {
+        "prenom": "Douve",
+        "nom": "WANE",
+        "login": "douvewane",
+        "password": "odc",
+        "avatar": ".\/Data\/avatars\/douvewane.jpeg",
+        "profil": "admin"
+    },
+    {
+        "prenom": "Omar",
+        "nom": "CAMARA",
+        "login": "omar",
+        "password": "omar",
+        "avatar": ".\/Data\/avatars\/omar.jpeg",
+        "profil": "admin"
+    },
+    {
+        "prenom": "Aly",
+        "nom": "NIANG",
+        "login": "aly",
+        "password": "alyodc",
+        "avatar": ".\/Data\/avatars\/aly.png",
+        "profil": "joueur",
+        "score": 15
+    },
+    {
+        "prenom": "Khady",
+        "nom": "DIOUF",
+        "login": "khady",
+        "password": "khady",
+        "avatar": ".\/Data\/avatars\/khady.png",
+        "profil": "joueur",
+        "score": 10
+    }
+]

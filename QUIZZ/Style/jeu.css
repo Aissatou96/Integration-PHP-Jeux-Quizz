@@ -1,0 +1,95 @@
+.container-interf{
+    border: 1px solid black;
+    background-color: white;
+    min-height: 650px;
+    width: 75%;
+    margin: auto;
+}
+
+.container-header-interf{
+    border: 1px solid black;
+    background-color:#51bfd0;
+    position: relative;
+    width: 100%;
+    min-height: 150px;
+}
+
+.joueur img{
+    position: absolute;
+    top: 15px;
+    width: 16%;
+    min-height: 100px;
+    margin: 5px;
+    float: left;
+}
+
+.joueur label{
+    position: absolute;
+    top: 82%;
+    right: 88%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+p{
+    display: inline;
+    font-size: 25px;
+}
+.titre div{
+    position: absolute;
+    right:10%;
+    width: 50%;
+    min-height: 150px;
+    font-size: 18px;
+    text-align: center;
+    float: left;
+}
+
+/*.t1{
+    text-align: center;
+    font-size: 50px;
+}*/
+
+
+.btn button{
+    position: absolute;
+    top: 60px;
+    right: 3%;
+    font-size: 18px;
+    font-weight: bold;
+    min-height: 45px;
+    padding: 10px;
+    color: white;
+    background-color: #3addd6;
+    float: left;
+}
+
+.left{
+    position: relative;
+    border: 1px solid blue;
+    border-radius: 10px;
+    width: 70%;
+    min-height: 495px;
+    float: left;
+}
+
+.right{
+    border: 1px solid red;
+    width: 29.5%;
+    min-height: 495px;
+    float: left;
+}
+
+.left-header{
+    border: 1px solid blueviolet;
+    background-color: silver;
+    width: 97%;
+    min-height: 100px;
+    margin:10px;
+    text-align: center;
+}
+
+.bouton button{
+    border: 1px solid red;
+}
